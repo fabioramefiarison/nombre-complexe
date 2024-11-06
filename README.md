@@ -1,1 +1,1 @@
-entrainements sur JAVA 
+entrainement sur JAVA 
